@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>La Pagina del Salido</title>
+	<title>La Pagina del Saludo</title>
 </head>
 <body>
 	<h1>Hola Unisimon 2022</h1>
